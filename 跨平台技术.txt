@@ -1,0 +1,8 @@
+phonegap 第一种跨平台技术，其实提供打包，为html5应用提供一个壳
+cordova 第二种跨平台技术，其实提供打包，为html5应用提供一个壳，提供了一些插件，所有调用硬件的插件
+
+ionic＋angular＋cordova (体验也不错)
+react－native (体验很好，使用的js调用是原生组件)
+cordova+html5页面＋js (体验相对较差，但是开发成本很低)
+国内框架，appcan，apicloud,wex5，mui + html5+
+
